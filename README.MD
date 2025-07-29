@@ -29,4 +29,4 @@ This project is a **Streamlit-based web application** that uses **NLP and Senten
 
 ---
 
-
+ ![alt text](https://github.com/Tulasireddyn/AI-Powered-Resume-Screening-Ranking-model/blob/main/sample_data/Screenshot%202025-07-29%20101140.png) 
